@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="mysql-connector-java-8.0.16" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/MySQL&amp;JDBC课件资料婷姐/MySQL&amp;jdbc课件/JDBC/Driver/mysql驱动/mysql-connector-java-5.1.37-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/mysql-connector-java-8.0.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/MySQL&amp;JDBC课件资料婷姐/MySQL&amp;jdbc课件/JDBC/Driver/数据库连接池驱动/druid/druid/druid-1.1.10/druid-1.1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="commons-dbutils-1.3" level="project" />
+    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/13.会员版(2.0)-就业课(2.0)-JDBC/30.JDBC连接池&amp;JDBCTemplate/day26_JDBC连接池&amp;JDBCTemplate/03_资料/JdbcTemplate/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/13.会员版(2.0)-就业课(2.0)-JDBC/30.JDBC连接池&amp;JDBCTemplate/day26_JDBC连接池&amp;JDBCTemplate/03_资料/JdbcTemplate/lib/spring-beans-5.0.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/13.会员版(2.0)-就业课(2.0)-JDBC/30.JDBC连接池&amp;JDBCTemplate/day26_JDBC连接池&amp;JDBCTemplate/03_资料/JdbcTemplate/lib/spring-core-5.0.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/13.会员版(2.0)-就业课(2.0)-JDBC/30.JDBC连接池&amp;JDBCTemplate/day26_JDBC连接池&amp;JDBCTemplate/03_资料/JdbcTemplate/lib/spring-jdbc-5.0.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/13.会员版(2.0)-就业课(2.0)-JDBC/30.JDBC连接池&amp;JDBCTemplate/day26_JDBC连接池&amp;JDBCTemplate/03_资料/JdbcTemplate/lib/spring-tx-5.0.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
