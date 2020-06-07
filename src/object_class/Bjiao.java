@@ -4,8 +4,8 @@ import Student_System.Student;
 
 public class Bjiao {
     public static void main(String[] args) {
-        String a="haha";
         String b=new String("haha");
+        String a="haha";
         System.out.println(a.equals(b));
         System.out.println(a==b);
         Student student=new Student();
