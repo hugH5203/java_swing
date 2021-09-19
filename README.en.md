@@ -1,7 +1,7 @@
 # at_home
 
 #### Description
-2020年新冠病毒爆发，不能去学校了，泪！
+2020年新冠病毒爆发，不能去学校了，泪！好久之前学得javaSwing，把它从gitee搬到github
 
 #### Software Architecture
 Software architecture description
